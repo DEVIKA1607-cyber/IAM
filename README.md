@@ -1,7 +1,7 @@
 # IAM
 # EX - 6 Implementation Of Identity Management (Amazon Iam) For Your Team.
-# NAME: RITHVIK S
-# REG NO: 212223100045
+# NAME: D DEVIKA
+# REG NO: 212224100010
 ## Aim
 
 To implement Identity and Access Management (IAM) in AWS to securely control access to resources by creating and managing IAM users, groups, roles, and policies for team collaboration.
